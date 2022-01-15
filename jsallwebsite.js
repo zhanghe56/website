@@ -1,4 +1,5 @@
-
+function jumptonew() {
+window.location.href="https://www.lanzoui.com/ihepBurvhza"}
 function closeFunction() {
    document.getElementById('actually').style.display='none';
 }
