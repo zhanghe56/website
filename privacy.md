@@ -162,13 +162,13 @@ title: XB小报隐私政策
 
 为了向您提供更丰富和完整的功能，我们会使用下述第三方软件开发工具包(简称“SDK”) 为您提供服务。SDK 的具体信息收集和使用情况请以SDK运营方的隐私政策或相关声明为准。XB小报 目前接入的第三方 SDK 如下所示：
 
-#### 1.百度移动统计SDK
+#### 1.Bugly SDK
 
 服务类型：统计分析
 
-收集的数据类型：设备信息、日志信息、应用程序列表信息
+收集的数据类型：手机型号、手机品牌、Android系统版本、Android系统api等级、厂商系统版本、cpu架构类型、设备是否root、磁盘空间占用大小、sdcard空间占用大小、内存空间占用大小、网络类型、应用当前正在运行的进程名和PID
 
-《百度统计隐私政策》：<https://tongji.baidu.com/web/help/article?id=330&type=0>
+《Bugly SDK个人信息保护规则》：<https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56>
 
 ### 五、我们如何保护您的个人信息
 
